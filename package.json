@@ -1,5 +1,5 @@
 {
-  "name": "transnational",
+  "name": "transnational-node",
   "version": "1.0.0",
   "description": "Transnational Payment Gateway API",
   "main": "lib/transnational.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EastviewCC/transnational-js.git"
+    "url": "git+https://github.com/EastviewCC/transnational-node.git"
   },
   "license": "MIT",
   "dependencies": {
