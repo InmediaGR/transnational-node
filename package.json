@@ -1,0 +1,27 @@
+{
+  "name": "transnational",
+  "version": "1.0.0",
+  "description": "Transnational Payment Gateway API",
+  "main": "lib/transnational.js",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watch"
+  },
+  "author": {
+    "name": "Eastview Developers",
+    "email": "developer@eastview.church",
+    "url": "http://eastview.church"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EastviewCC/transnational-js.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "request": "2.79.0"
+  },
+  "devDependencies": {
+    "jest": "18.1.0",
+    "winston": "2.3.1"
+  }
+}
